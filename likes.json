@@ -1,0 +1,200 @@
+[
+    {
+        "villager": "Kent",
+        "birthday": "Spring 4",
+        "loves": "Fiddlehead Risotto, Roasted Hazelnuts, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Like (except Quartz, Sashimi, Tortilla, Algae Soup), All Eggs (except Void egg), All Fruits, Daffodil."
+    },
+    {
+        "villager": "Lewis",
+        "birthday": "Spring 7",
+        "loves": "Vegetable Medley, Autumn's Bounty, Glazed Yams, Hot Pepper, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Like (except Quartz), Parsnip, Coconut, Cactus Fruit, Potato, Blueberry, Radish, Eggplant, Artichoke, Bok Choy."
+    },
+    {
+        "villager": "Vincent",
+        "birthday": "Spring 10",
+        "loves": "Cranberry Candy, Pink Cake, Grape, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except All Vegetables, All Artisan Goods, Coffee, Quartz, Maple Syrup.), Daffodil, Coconut."
+    },
+    {
+        "villager": "Haley",
+        "birthday": "Spring 14",
+        "loves": "Pink Cake, Fruit Salad, Coconut, Sunflower, Rabbit's Foot.",
+        "likes": "Universal Likes (except All Vegetables, Quartz), Daffodil."
+    },
+    {
+        "villager": "Pam",
+        "birthday": "Spring 18",
+        "loves": "Parsnip Soup, Beer, Glazed Yams,  Pale Ale Parsnip, Cactus Fruit, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except Quartz), All Milk, All Vegetables, All Fruits, Daffodil."
+    },
+    {
+        "villager": "Shane",
+        "birthday": "Spring 20",
+        "loves": "Beer, Hot Pepper, Pepper Poppers, Pizza, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except Quartz, Pickles), All Eggs (except Void egg), All Fruits, Pale Ale."
+    },
+    {
+        "villager": "Pierre",
+        "birthday": "Spring 26",
+        "loves": "Fried Calamari, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except All Gems, Tortilla, Parsnip Soup, Corn, Garlic), Eggplant, All Milks, All Eggs (except Void egg), Daffodil, Dandelion, Fiddlehead Fern, Diamond."
+    },
+    {
+        "villager": "Emily",
+        "birthday": "Spring 27",
+        "loves": "Survival Burger, Emerald, Aquamarine, Ruby, Amethyst, Topaz, Jade, Cloth, Wool, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except Rice Pudding, Ice Cream, Fried Eel, Spicy Eel, Salmon Dinner, Fish Taco, Sashimi, Maki Roll), Daffodil"
+    },
+    {
+        "villager": "Jas",
+        "birthday": "Summer 4",
+        "loves": "Fairy Rose, Pink Cake, Plum Pudding, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except All Vegetables, All Artisan Goods, Quartz, Coffee), Coconut, Daffodil."
+    },
+    {
+        "villager": "Gus",
+        "birthday": "Summer 8",
+        "loves": "Diamond, Escargot, Fish Taco, Orange, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except Quartz, Coleslaw), Daffodil."
+    },
+    {
+        "villager": "Maru",
+        "birthday": "Summer 10",
+        "loves": "Cheese Cauliflower, Cauliflower, Pepper Poppers, Rhubarb Pie, Miner's Treat, Strawberry, Diamond, Gold Bar, Iridium Bar, Battery Pack, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except Honey, Maple Syrup, Pickles), Copper Bar, Iron Bar, Sweet Pea, Crocus."
+    },
+    {
+        "villager": "Alex",
+        "birthday": "Summer 13",
+        "loves": "Complete Breakfast, Salmon Dinner, Rabbit's Foot, Prismatic Shard",
+        "likes": "Universal Likes (except Quartz), All Eggs (except Void egg)."
+    },
+    {
+        "villager": "Sam",
+        "birthday": "Summer 17",
+        "loves": "Pizza, Cactus Fruit, Maple Bar, Tigerseye, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except All Vegetables, Quartz, Mayonnaise, Duck Mayonnaise, Pickles), Joja Cola, All Eggs (except Void egg)."
+    },
+    {
+        "villager": "Demetrius",
+        "birthday": "Summer 19",
+        "loves": "Bean Hotpot, Ice Cream, Rice Pudding, Strawberry, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except Quartz), All Eggs (except Void egg), All Fruits, Purple Mushroom."
+    },
+    {
+        "villager": "Dwarf",
+        "birthday": "Summer 22",
+        "loves": "Amethyst, Aquamarine, Emerald, Jade, Omni Geode, Ruby, Topaz, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes, Dwarf Scroll I, Dwarf Scroll II, Dwarf Scroll III, Dwarf Scroll IV, Dwarvish Helm, Dwarf Gadget."
+    },
+    {
+        "villager": "Willy",
+        "birthday": "Summer 24",
+        "loves": "Catfish, Diamond, Iridium Bar, Octopus, Pumpkin, Sea Cucumber, Sturgeon, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except All Cooking), Tiger Trout, Red Mullet, Lingcod, Gold Bar, Baked Fish, Fried Calamari, Carp Surprise, Salmon Dinner, Fish Taco, Crispy Bass, Trout Soup, Fried Eel, Chowder, Lobster Bisque, Fish Stew, Crab Cakes. "
+    },
+    {
+        "villager": "Penny",
+        "birthday": "Fall 2",
+        "loves": "Poppyseed Muffin, Red Plate, Tom Kha Soup, Roots Platter, Melon, Diamond, Sandfish, Poppy, Emerald, Prismatic Shard.",
+        "likes": "Universal Likes (except Quartz, Beer, Wine, Pale Ale, Goat Cheese, Algae Soup, Pale Broth), All Milk, Leek, Dandelion."
+    },
+    {
+        "villager": "Elliot",
+        "birthday": "Fall 5",
+        "loves": "Pomegranate, Crab Cakes, Tom Kha Soup, Duck Feather, Lobster, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except Quartz, Pizza) , All Fruits (except Salmonberry),  Squid, Octopus."
+    },
+    {
+        "villager": "Jodi",
+        "birthday": "Fall 11",
+        "loves": "Chocolate Cake, Crispy Bass, Diamond, Vegetable Medley, Eggplant Parmesan, Fried Eel, Pancakes, Rhubarb Pie, Rabbit's Foot, Prismatic Shard",
+        "likes": "Universal Likes (except Quartz, Garlic), All Eggs (except Void egg), All Milk, All Fruits (except Spice Berry)."
+    },
+    {
+        "villager": "Abigail ",
+        "birthday": "Fall 13",
+        "loves": "Blackberry Cobbler, Chocolate Cake, Spicy Eel, Pufferfish, Amethyst, Pumpkin, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except All Vegetables)"
+    },
+    {
+        "villager": "Sandy",
+        "birthday": "Fall 15",
+        "loves": "Crocus, Daffodil, Sweet Pea, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes, All Fruits, All Vegetables, Coconut, Goat Milk, L. Goat Milk, Wool."
+    },
+    {
+        "villager": "Marnie",
+        "birthday": "Fall 18",
+        "loves": "Diamond, Farmer's Lunch, Pink Cake, Pumpkin Pie, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes, All Eggs (except Void egg), All Milk."
+    },
+    {
+        "villager": "Robin",
+        "birthday": "Fall 21",
+        "loves": "Goat Cheese, Peach, Spaghetti, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes, All Milk, All Fruits, Cheese, Hardwood."
+    },
+    {
+        "villager": "George",
+        "birthday": "Fall 24",
+        "loves": "Fried Mushroom, Leek, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except Quartz, All Flowers), Daffodil, "
+    },
+    {
+        "villager": "Krobus",
+        "birthday": "Winter 1",
+        "loves": "Diamond, Iridium Bar, Pumpkin, Void Egg, Wild Horseradish, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except All Cooking), Gold Bar."
+    },
+    {
+        "villager": "Linus",
+        "birthday": "Winter 3",
+        "loves": "Blueberry Tart, Cactus Fruit, Coconut, Dish O' The Sea, Yam, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except All Gems), All Eggs (except Void egg), All Milk, All Fruits, All Forage, Diamond."
+    },
+    {
+        "villager": "Caroline",
+        "birthday": "Winter 7",
+        "loves": "Fish Taco, Summer Spangle, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except Quartz, Mayonnaise, Duck Mayonnaise, Amaranth), Daffodil."
+    },
+    {
+        "villager": "Sebastian",
+        "birthday": "Winter 10",
+        "loves": "Frozen Tear, Pumpkin Soup, Sashimi, Void Egg, Obsidian, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except All Flowers, Fried Egg, Omelet, Farmer's Lunch, Complete Breakfast, All Artisan Goods), Pumpkin."
+    },
+    {
+        "villager": "Harvey",
+        "birthday": "Winter 14",
+        "loves": "Super Meal, Lobster Bisque, Truffle Oil, Wine, Coffee, Pickles, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except Cheese, Goat Cheese, Ice Cream, Rice Pudding, Cranberry Sauce, Blueberry Tart, Cookie, Rhubarb Pie, Pink Cake, Chocolate Cake, Pancakes, Hashbrowns, Glazed Yams, Pizza, Fried Mushroom) , All Forage , All Fruits (except Salmonberry, Spice Berry), Purple Mushroom, Goat Milk, L. Goat Milk, Duck Egg, Duck Feather."
+    },
+    {
+        "villager": "Wizard",
+        "birthday": "Winter 17",
+        "loves": "Super Cucumber, Purple Mushroom, Solar Essence, Void Essence, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes, All Minerals."
+    },
+    {
+        "villager": "Evelyn",
+        "birthday": "Winter 20",
+        "loves": "Beet, Chocolate Cake, Diamond, Fairy Rose, Stuffing, Tulip, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except Quartz, Fried Eel, Spicy Eel, Sashimi, Maki Roll, Trout Soup, Garlic), All Milk, Daffodil, "
+    },
+    {
+        "villager": "Leah",
+        "birthday": "Winter 23",
+        "loves": "Salad, Vegetable Medley, Poppyseed Muffin, Stir fry, Wine, Goat Cheese, Truffle, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except Pizza, Pink Cake, Cookie, Tortilla, Rice Pudding, Ice Cream, Survival Burger, Carp Surprise, Fried Egg, Pancakes, Hashbrowns, All Gems), Daffodil, All Eggs (except Void Egg), All Milk, All Fruits, All Forage, Driftwood."
+    },
+    {
+        "villager": "Clint",
+        "birthday": "Winter 26",
+        "loves": "Emerald, Aquamarine, Ruby, Amethyst, Topaz, Jade, Gold Bar, Iridium Bar, Artichoke Dip, Fiddlehead Risotto, Omni Geode, Rabbit's Foot, Prismatic Shard.",
+        "likes": "Universal Likes (except Quartz, All Flowers), Copper Bar, Iron Bar."
+    }
+]
