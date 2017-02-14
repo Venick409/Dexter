@@ -1,0 +1,11 @@
+{
+  "name": "dexterbot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "Dexter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Venick",
+  "license": "ISC"
+}
