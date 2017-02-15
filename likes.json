@@ -1,200 +1,218 @@
-[
-    {
+{
+    "kent": {
         "villager": "Kent",
-        "birthday": "Spring 4",
-        "loves": "Fiddlehead Risotto, Roasted Hazelnuts, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Like (except Quartz, Sashimi, Tortilla, Algae Soup), All Eggs (except Void egg), All Fruits, Daffodil."
+        "birthday": "                   Birthday: Spring 4",
+        "loves": "\n\nLoves:\nFiddlehead Risotto, Roasted Hazelnuts, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Like (except Quartz, Sashimi, Tortilla, Algae Soup), All Eggs (except Void egg), All Fruits, Daffodil."
     },
-    {
+    "lewis": {
         "villager": "Lewis",
-        "birthday": "Spring 7",
-        "loves": "Vegetable Medley, Autumn's Bounty, Glazed Yams, Hot Pepper, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Like (except Quartz), Parsnip, Coconut, Cactus Fruit, Potato, Blueberry, Radish, Eggplant, Artichoke, Bok Choy."
+        "birthday": "                   Birthday: Spring 7",
+        "loves": "\n\nLoves:\nVegetable Medley, Autumn's Bounty, Glazed Yams, Hot Pepper, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Like (except Quartz), Parsnip, Coconut, Cactus Fruit, Potato, Blueberry, Radish, Eggplant, Artichoke, Bok Choy."
     },
-    {
+    "vincent": {
         "villager": "Vincent",
-        "birthday": "Spring 10",
-        "loves": "Cranberry Candy, Pink Cake, Grape, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except All Vegetables, All Artisan Goods, Coffee, Quartz, Maple Syrup.), Daffodil, Coconut."
+        "birthday": "                   Birthday: Spring 10",
+        "loves": "\n\nLoves:\nCranberry Candy, Pink Cake, Grape, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except All Vegetables, All Artisan Goods, Coffee, Quartz, Maple Syrup.), Daffodil, Coconut."
     },
-    {
+    "haley": {
         "villager": "Haley",
-        "birthday": "Spring 14",
-        "loves": "Pink Cake, Fruit Salad, Coconut, Sunflower, Rabbit's Foot.",
-        "likes": "Universal Likes (except All Vegetables, Quartz), Daffodil."
+        "birthday": "                   Birthday: Spring 14",
+        "loves": "\n\nLoves:\nPink Cake, Fruit Salad, Coconut, Sunflower, Rabbit's Foot.",
+        "likes": "\n\nLikes:\nUniversal Likes (except All Vegetables, Quartz), Daffodil."
     },
-    {
+    "pam": {
         "villager": "Pam",
-        "birthday": "Spring 18",
-        "loves": "Parsnip Soup, Beer, Glazed Yams,  Pale Ale Parsnip, Cactus Fruit, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except Quartz), All Milk, All Vegetables, All Fruits, Daffodil."
+        "birthday": "                   Birthday: Spring 18",
+        "loves": "\n\nLoves:\nParsnip Soup, Beer, Glazed Yams,  Pale Ale Parsnip, Cactus Fruit, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except Quartz), All Milk, All Vegetables, All Fruits, Daffodil."
     },
-    {
+    "shane": {
         "villager": "Shane",
-        "birthday": "Spring 20",
-        "loves": "Beer, Hot Pepper, Pepper Poppers, Pizza, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except Quartz, Pickles), All Eggs (except Void egg), All Fruits, Pale Ale."
+        "birthday": "                   Birthday: Spring 20",
+        "loves": "\n\nLoves:\nBeer, Hot Pepper, Pepper Poppers, Pizza, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except Quartz, Pickles), All Eggs (except Void egg), All Fruits, Pale Ale."
     },
-    {
+    "pierre": {
         "villager": "Pierre",
-        "birthday": "Spring 26",
-        "loves": "Fried Calamari, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except All Gems, Tortilla, Parsnip Soup, Corn, Garlic), Eggplant, All Milks, All Eggs (except Void egg), Daffodil, Dandelion, Fiddlehead Fern, Diamond."
+        "birthday": "                   Birthday: Spring 26",
+        "loves": "\n\nLoves:\nFried Calamari, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except All Gems, Tortilla, Parsnip Soup, Corn, Garlic), Eggplant, All Milks, All Eggs (except Void egg), Daffodil, Dandelion, Fiddlehead Fern, Diamond."
     },
-    {
+    "emily": {
         "villager": "Emily",
-        "birthday": "Spring 27",
-        "loves": "Survival Burger, Emerald, Aquamarine, Ruby, Amethyst, Topaz, Jade, Cloth, Wool, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except Rice Pudding, Ice Cream, Fried Eel, Spicy Eel, Salmon Dinner, Fish Taco, Sashimi, Maki Roll), Daffodil"
+        "birthday": "                   Birthday: Spring 27",
+        "loves": "\n\nLoves:\nSurvival Burger, Emerald, Aquamarine, Ruby, Amethyst, Topaz, Jade, Cloth, Wool, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except Rice Pudding, Ice Cream, Fried Eel, Spicy Eel, Salmon Dinner, Fish Taco, Sashimi, Maki Roll), Daffodil"
     },
-    {
+    "jas": {
         "villager": "Jas",
-        "birthday": "Summer 4",
-        "loves": "Fairy Rose, Pink Cake, Plum Pudding, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except All Vegetables, All Artisan Goods, Quartz, Coffee), Coconut, Daffodil."
+        "birthday": "                   Birthday: Summer 4",
+        "loves": "\n\nLoves:\nFairy Rose, Pink Cake, Plum Pudding, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except All Vegetables, All Artisan Goods, Quartz, Coffee), Coconut, Daffodil."
     },
-    {
+    "gus": {
         "villager": "Gus",
-        "birthday": "Summer 8",
-        "loves": "Diamond, Escargot, Fish Taco, Orange, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except Quartz, Coleslaw), Daffodil."
+        "birthday": "                   Birthday: Summer 8",
+        "loves": "\n\nLoves:\nDiamond, Escargot, Fish Taco, Orange, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except Quartz, Coleslaw), Daffodil."
     },
-    {
+    "maru": {
         "villager": "Maru",
-        "birthday": "Summer 10",
-        "loves": "Cheese Cauliflower, Cauliflower, Pepper Poppers, Rhubarb Pie, Miner's Treat, Strawberry, Diamond, Gold Bar, Iridium Bar, Battery Pack, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except Honey, Maple Syrup, Pickles), Copper Bar, Iron Bar, Sweet Pea, Crocus."
+        "birthday": "                   Birthday: Summer 10",
+        "loves": "\n\nLoves:\nCheese Cauliflower, Cauliflower, Pepper Poppers, Rhubarb Pie, Miner's Treat, Strawberry, Diamond, Gold Bar, Iridium Bar, Battery Pack, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except Honey, Maple Syrup, Pickles), Copper Bar, Iron Bar, Sweet Pea, Crocus."
     },
-    {
+    "alex": {
         "villager": "Alex",
-        "birthday": "Summer 13",
-        "loves": "Complete Breakfast, Salmon Dinner, Rabbit's Foot, Prismatic Shard",
-        "likes": "Universal Likes (except Quartz), All Eggs (except Void egg)."
+        "birthday": "                   Birthday: Summer 13",
+        "loves": "\n\nLoves:\nComplete Breakfast, Salmon Dinner, Rabbit's Foot, Prismatic Shard",
+        "likes": "\n\nLikes:\nUniversal Likes (except Quartz), All Eggs (except Void egg)."
     },
-    {
+    "sam": {
         "villager": "Sam",
-        "birthday": "Summer 17",
-        "loves": "Pizza, Cactus Fruit, Maple Bar, Tigerseye, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except All Vegetables, Quartz, Mayonnaise, Duck Mayonnaise, Pickles), Joja Cola, All Eggs (except Void egg)."
+        "birthday": "                   Birthday: Summer 17",
+        "loves": "\n\nLoves:\nPizza, Cactus Fruit, Maple Bar, Tigerseye, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except All Vegetables, Quartz, Mayonnaise, Duck Mayonnaise, Pickles), Joja Cola, All Eggs (except Void egg)."
     },
-    {
+    "demetrius": {
         "villager": "Demetrius",
-        "birthday": "Summer 19",
-        "loves": "Bean Hotpot, Ice Cream, Rice Pudding, Strawberry, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except Quartz), All Eggs (except Void egg), All Fruits, Purple Mushroom."
+        "birthday": "                   Birthday: Summer 19",
+        "loves": "\n\nLoves:\nBean Hotpot, Ice Cream, Rice Pudding, Strawberry, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except Quartz), All Eggs (except Void egg), All Fruits, Purple Mushroom."
     },
-    {
+    "dwarf": {
         "villager": "Dwarf",
-        "birthday": "Summer 22",
-        "loves": "Amethyst, Aquamarine, Emerald, Jade, Omni Geode, Ruby, Topaz, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes, Dwarf Scroll I, Dwarf Scroll II, Dwarf Scroll III, Dwarf Scroll IV, Dwarvish Helm, Dwarf Gadget."
+        "birthday": "                   Birthday: Summer 22",
+        "loves": "\n\nLoves:\nAmethyst, Aquamarine, Emerald, Jade, Omni Geode, Ruby, Topaz, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes, Dwarf Scroll I, Dwarf Scroll II, Dwarf Scroll III, Dwarf Scroll IV, Dwarvish Helm, Dwarf Gadget."
     },
-    {
+    "willy": {
         "villager": "Willy",
-        "birthday": "Summer 24",
-        "loves": "Catfish, Diamond, Iridium Bar, Octopus, Pumpkin, Sea Cucumber, Sturgeon, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except All Cooking), Tiger Trout, Red Mullet, Lingcod, Gold Bar, Baked Fish, Fried Calamari, Carp Surprise, Salmon Dinner, Fish Taco, Crispy Bass, Trout Soup, Fried Eel, Chowder, Lobster Bisque, Fish Stew, Crab Cakes. "
+        "birthday": "                   Birthday: Summer 24",
+        "loves": "\n\nLoves:\nCatfish, Diamond, Iridium Bar, Octopus, Pumpkin, Sea Cucumber, Sturgeon, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except All Cooking), Tiger Trout, Red Mullet, Lingcod, Gold Bar, Baked Fish, Fried Calamari, Carp Surprise, Salmon Dinner, Fish Taco, Crispy Bass, Trout Soup, Fried Eel, Chowder, Lobster Bisque, Fish Stew, Crab Cakes. "
     },
-    {
+    "penny": {
         "villager": "Penny",
-        "birthday": "Fall 2",
-        "loves": "Poppyseed Muffin, Red Plate, Tom Kha Soup, Roots Platter, Melon, Diamond, Sandfish, Poppy, Emerald, Prismatic Shard.",
-        "likes": "Universal Likes (except Quartz, Beer, Wine, Pale Ale, Goat Cheese, Algae Soup, Pale Broth), All Milk, Leek, Dandelion."
+        "birthday": "                   Birthday: Fall 2",
+        "loves": "\n\nLoves:\nPoppyseed Muffin, Red Plate, Tom Kha Soup, Roots Platter, Melon, Diamond, Sandfish, Poppy, Emerald, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except Quartz, Beer, Wine, Pale Ale, Goat Cheese, Algae Soup, Pale Broth), All Milk, Leek, Dandelion."
     },
-    {
+    "elliot": {
         "villager": "Elliot",
-        "birthday": "Fall 5",
-        "loves": "Pomegranate, Crab Cakes, Tom Kha Soup, Duck Feather, Lobster, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except Quartz, Pizza) , All Fruits (except Salmonberry),  Squid, Octopus."
+        "birthday": "                   Birthday: Fall 5",
+        "loves": "\n\nLoves:\nPomegranate, Crab Cakes, Tom Kha Soup, Duck Feather, Lobster, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except Quartz, Pizza) , All Fruits (except Salmonberry),  Squid, Octopus."
     },
-    {
+    "jodi": {
         "villager": "Jodi",
-        "birthday": "Fall 11",
-        "loves": "Chocolate Cake, Crispy Bass, Diamond, Vegetable Medley, Eggplant Parmesan, Fried Eel, Pancakes, Rhubarb Pie, Rabbit's Foot, Prismatic Shard",
-        "likes": "Universal Likes (except Quartz, Garlic), All Eggs (except Void egg), All Milk, All Fruits (except Spice Berry)."
+        "birthday": "                   Birthday: Fall 11",
+        "loves": "\n\nLoves:\nChocolate Cake, Crispy Bass, Diamond, Vegetable Medley, Eggplant Parmesan, Fried Eel, Pancakes, Rhubarb Pie, Rabbit's Foot, Prismatic Shard",
+        "likes": "\n\nLikes:\nUniversal Likes (except Quartz, Garlic), All Eggs (except Void egg), All Milk, All Fruits (except Spice Berry)."
     },
-    {
-        "villager": "Abigail ",
-        "birthday": "Fall 13",
-        "loves": "Blackberry Cobbler, Chocolate Cake, Spicy Eel, Pufferfish, Amethyst, Pumpkin, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except All Vegetables)"
+    "abigail": {
+        "villager": "Abigail",
+        "birthday": "                   Birthday: Fall 13",
+        "loves": "\n\nLoves:\nBlackberry Cobbler, Chocolate Cake, Spicy Eel, Pufferfish, Amethyst, Pumpkin, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except All Vegetables)"
     },
-    {
+    "sandy": {
         "villager": "Sandy",
-        "birthday": "Fall 15",
-        "loves": "Crocus, Daffodil, Sweet Pea, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes, All Fruits, All Vegetables, Coconut, Goat Milk, L. Goat Milk, Wool."
+        "birthday": "                   Birthday: Fall 15",
+        "loves": "\n\nLoves:\nCrocus, Daffodil, Sweet Pea, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes, All Fruits, All Vegetables, Coconut, Goat Milk, L. Goat Milk, Wool."
     },
-    {
+    "marnie": {
         "villager": "Marnie",
-        "birthday": "Fall 18",
-        "loves": "Diamond, Farmer's Lunch, Pink Cake, Pumpkin Pie, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes, All Eggs (except Void egg), All Milk."
+        "birthday": "                   Birthday: Fall 18",
+        "loves": "\n\nLoves:\nDiamond, Farmer's Lunch, Pink Cake, Pumpkin Pie, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes, All Eggs (except Void egg), All Milk."
     },
-    {
+    "robin": {
         "villager": "Robin",
-        "birthday": "Fall 21",
-        "loves": "Goat Cheese, Peach, Spaghetti, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes, All Milk, All Fruits, Cheese, Hardwood."
+        "birthday": "                   Birthday: Fall 21",
+        "loves": "\n\nLoves:\nGoat Cheese, Peach, Spaghetti, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes, All Milk, All Fruits, Cheese, Hardwood."
     },
-    {
+    "george": {
         "villager": "George",
-        "birthday": "Fall 24",
-        "loves": "Fried Mushroom, Leek, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except Quartz, All Flowers), Daffodil, "
+        "birthday": "                   Birthday: Fall 24",
+        "loves": "\n\nLoves:\nFried Mushroom, Leek, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except Quartz, All Flowers), Daffodil, "
     },
-    {
+    "krobus": {
         "villager": "Krobus",
-        "birthday": "Winter 1",
-        "loves": "Diamond, Iridium Bar, Pumpkin, Void Egg, Wild Horseradish, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except All Cooking), Gold Bar."
+        "birthday": "                   Birthday: Winter 1",
+        "loves": "\n\nLoves:\nDiamond, Iridium Bar, Pumpkin, Void Egg, Wild Horseradish, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except All Cooking), Gold Bar."
     },
-    {
+    "linus": {
         "villager": "Linus",
-        "birthday": "Winter 3",
-        "loves": "Blueberry Tart, Cactus Fruit, Coconut, Dish O' The Sea, Yam, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except All Gems), All Eggs (except Void egg), All Milk, All Fruits, All Forage, Diamond."
+        "birthday": "                   Birthday: Winter 3",
+        "loves": "\n\nLoves:\nBlueberry Tart, Cactus Fruit, Coconut, Dish O' The Sea, Yam, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except All Gems), All Eggs (except Void egg), All Milk, All Fruits, All Forage, Diamond."
     },
-    {
+    "caroline": {
         "villager": "Caroline",
-        "birthday": "Winter 7",
-        "loves": "Fish Taco, Summer Spangle, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except Quartz, Mayonnaise, Duck Mayonnaise, Amaranth), Daffodil."
+        "birthday": "                   Birthday: Winter 7",
+        "loves": "\n\nLoves:\nFish Taco, Summer Spangle, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except Quartz, Mayonnaise, Duck Mayonnaise, Amaranth), Daffodil."
     },
-    {
+    "sebastian": {
         "villager": "Sebastian",
-        "birthday": "Winter 10",
-        "loves": "Frozen Tear, Pumpkin Soup, Sashimi, Void Egg, Obsidian, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except All Flowers, Fried Egg, Omelet, Farmer's Lunch, Complete Breakfast, All Artisan Goods), Pumpkin."
+        "birthday": "                   Birthday: Winter 10",
+        "loves": "\n\nLoves:\nFrozen Tear, Pumpkin Soup, Sashimi, Void Egg, Obsidian, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except All Flowers, Fried Egg, Omelet, Farmer's Lunch, Complete Breakfast, All Artisan Goods), Pumpkin."
     },
-    {
+    "harvey": {
         "villager": "Harvey",
-        "birthday": "Winter 14",
-        "loves": "Super Meal, Lobster Bisque, Truffle Oil, Wine, Coffee, Pickles, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except Cheese, Goat Cheese, Ice Cream, Rice Pudding, Cranberry Sauce, Blueberry Tart, Cookie, Rhubarb Pie, Pink Cake, Chocolate Cake, Pancakes, Hashbrowns, Glazed Yams, Pizza, Fried Mushroom) , All Forage , All Fruits (except Salmonberry, Spice Berry), Purple Mushroom, Goat Milk, L. Goat Milk, Duck Egg, Duck Feather."
+        "birthday": "                   Birthday: Winter 14",
+        "loves": "\n\nLoves:\nSuper Meal, Lobster Bisque, Truffle Oil, Wine, Coffee, Pickles, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except Cheese, Goat Cheese, Ice Cream, Rice Pudding, Cranberry Sauce, Blueberry Tart, Cookie, Rhubarb Pie, Pink Cake, Chocolate Cake, Pancakes, Hashbrowns, Glazed Yams, Pizza, Fried Mushroom) , All Forage , All Fruits (except Salmonberry, Spice Berry), Purple Mushroom, Goat Milk, L. Goat Milk, Duck Egg, Duck Feather."
     },
-    {
+    "wizard": {
         "villager": "Wizard",
-        "birthday": "Winter 17",
-        "loves": "Super Cucumber, Purple Mushroom, Solar Essence, Void Essence, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes, All Minerals."
+        "birthday": "                   Birthday: Winter 17",
+        "loves": "\n\nLoves:\nSuper Cucumber, Purple Mushroom, Solar Essence, Void Essence, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes, All Minerals."
     },
-    {
+    "evelyn": {
         "villager": "Evelyn",
-        "birthday": "Winter 20",
-        "loves": "Beet, Chocolate Cake, Diamond, Fairy Rose, Stuffing, Tulip, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except Quartz, Fried Eel, Spicy Eel, Sashimi, Maki Roll, Trout Soup, Garlic), All Milk, Daffodil, "
+        "birthday": "                   Birthday: Winter 20",
+        "loves": "\n\nLoves:\nBeet, Chocolate Cake, Diamond, Fairy Rose, Stuffing, Tulip, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except Quartz, Fried Eel, Spicy Eel, Sashimi, Maki Roll, Trout Soup, Garlic), All Milk, Daffodil, "
     },
-    {
+    "leah": {
         "villager": "Leah",
-        "birthday": "Winter 23",
-        "loves": "Salad, Vegetable Medley, Poppyseed Muffin, Stir fry, Wine, Goat Cheese, Truffle, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except Pizza, Pink Cake, Cookie, Tortilla, Rice Pudding, Ice Cream, Survival Burger, Carp Surprise, Fried Egg, Pancakes, Hashbrowns, All Gems), Daffodil, All Eggs (except Void Egg), All Milk, All Fruits, All Forage, Driftwood."
+        "birthday": "                   Birthday: Winter 23",
+        "loves": "\n\nLoves:\nSalad, Vegetable Medley, Poppyseed Muffin, Stir fry, Wine, Goat Cheese, Truffle, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except Pizza, Pink Cake, Cookie, Tortilla, Rice Pudding, Ice Cream, Survival Burger, Carp Surprise, Fried Egg, Pancakes, Hashbrowns, All Gems), Daffodil, All Eggs (except Void Egg), All Milk, All Fruits, All Forage, Driftwood."
     },
-    {
+    "clint": {
         "villager": "Clint",
-        "birthday": "Winter 26",
-        "loves": "Emerald, Aquamarine, Ruby, Amethyst, Topaz, Jade, Gold Bar, Iridium Bar, Artichoke Dip, Fiddlehead Risotto, Omni Geode, Rabbit's Foot, Prismatic Shard.",
-        "likes": "Universal Likes (except Quartz, All Flowers), Copper Bar, Iron Bar."
+        "birthday": "                   Birthday: Winter 26",
+        "loves": "\n\nLoves:\nEmerald, Aquamarine, Ruby, Amethyst, Topaz, Jade, Gold Bar, Iridium Bar, Artichoke Dip, Fiddlehead Risotto, Omni Geode, Rabbit's Foot, Prismatic Shard.",
+        "likes": "\n\nLikes:\nUniversal Likes (except Quartz, All Flowers), Copper Bar, Iron Bar."
+    },
+    "villagers": {
+        "villager": "Bachelors:\nAlex, Elliot, Harvey, Sam, Sebastian, Shane\n\n",
+        "birthday": "",
+        "loves": "Bachelorettes:\nAbigail, Emily, Haley, Leah, Maru, Penny\n\n",
+        "likes": "Villagers:\nCaroline, Clint, Demetrius, Dwarf, Evelyn, George, Gus, Jas, Jodi, Kent, Krobus, Lewis, Linus, Marnie, Pam, Pierre, Robin, Sandy, Vincent, WIlly, Wizard"
+    },
+    "ulikes": {
+        "villager": "All gems besides Prismatic Shard which is considered a universal loved gift.\n",
+        "birthday": "All cooking (except Oil of Garlic, fried eggs, bread, strange bun)\n",
+        "loves": "All vegetables (except wheat, hops)\nAll artisan goods (except Oak Resin, Pine Tar)\n",
+        "likes": "All flowers (except poppy)\nCoffee, Apple, Apricot, Orange, Peach, Pomegranate, Cherry, Maple Syrup, Diamond."
+    },
+    "help": {
+        "villager": "This is a command list to give info for Stardew Valley.\nalways start with '.sv'' \nalways all lowercase\n",
+        "birthday": "''.sv villagers'' to see a list of villagers\n''.sv (villager name)'' to see birthday, likes/loves of a villager.\n",
+        "loves": "''.sv ulikes'' to see the Universal Liked Gifts.",
+        "likes": ""
     }
-]
+}
